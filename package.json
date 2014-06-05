@@ -1,0 +1,25 @@
+{
+  "name": "issuetracker_node",
+  "version": "0.0.0",
+  "description": "issuetracker_node\r =================",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vmelnychuk/issuetracker_node.git"
+  },
+  "keywords": [
+    "issuetracker"
+  ],
+  "author": "vmelnychuk",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/vmelnychuk/issuetracker_node/issues"
+  },
+  "homepage": "https://github.com/vmelnychuk/issuetracker_node",
+  "dependencies": {
+    "express": "3.x",
+    "consolidate": "*",
+    "swig": "*",
+    "mongodb": "*"
+  }
+}
